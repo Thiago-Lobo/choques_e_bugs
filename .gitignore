@@ -1,0 +1,9 @@
+*.pyc
+*.key
+*DS_Store
+*.log
+*.log.gz
+dhcplist*
+nohup*
+build-*
+*.pid
