@@ -7,3 +7,5 @@ dhcplist*
 nohup*
 build-*
 *.pid
+temp
+unused
